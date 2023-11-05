@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ejercicios Android</string>
+    <string name="tvTitulo_1">Calcular edad</string>
+    <string name="tvTitulo">Ejercicios
+        Android</string>
+    <string name="tvED">Edad</string>
+    <string name="btnCalcularEdad">Calcular edad</string>
+    <string name="btnEjercicio_1">Ejercicio 1</string>
+    <string name="btnEjercicio_2">Ejercicio 2</string>
+    <string name="btnEjercicio_3">Ejercicio 3</string>
+    <string name="btnEjercicio_4">Ejercicio 4</string>
+    <string name="tvTitulo_2">Carrito de compras</string>
+    <string name="etNombres">Nombres</string>
+    <string name="etApellidos">Apellidos</string>
+    <string name="etDireccion">Dirección</string>
+    <string name="btnSiguiente2">Siguiente</string>
+    <string name="tvSeleccionProductos">Seleccione los productos</string>
+    <string name="chMonster">Monster</string>
+    <string name="chBounyour">Bonyour</string>
+    <string name="chTampico">Tampico</string>
+    <string name="chChidos">Chidos</string>
+    <string name="chChokisRojas">Chokis Rojas</string>
+    <string name="chTakisFuego">Takis Fuego</string>
+    <string name="tvTitulo_4">Calcualdora Masa corporal</string>
+    <string name="tvPeso_Enunciado">Ingresa tu peso</string>
+    <string name="tvAltura_Enunciado">Ingresa tu altura</string>
+    <string name="rbMetrico">Metrico</string>
+    <string name="rbIngles">Ingles</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="tvFactura">Factura</string>
+</resources>
